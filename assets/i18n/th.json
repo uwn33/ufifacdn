@@ -20,9 +20,9 @@
   "predictionCycle2": "รอบพยากรณ์ 2: <br>รอบแบ่งกลุ่ม 2",
   "predictionCycle3": "รอบพยากรณ์ 3: <br>รอบน็อกเอาต์​",
   "predictionCycle4": "รอบพยากรณ์ 4: <br>รอบชิง",
-  "bronze_label": "ตั๋วบรอนซ์ Uspin33",
-  "silver_label": "ตั๋วซิลเวอร์ Uspin33",
-  "gold_label": "ตั๋วโกลด์ Uspin33",
+  "bronze_label": "ตั๋วบรอนซ์<br>Uspin33",
+  "silver_label": "ตั๋วซิลเวอร์<br>Uspin33",
+  "gold_label": "ตั๋วโกลด์<br>Uspin33",
   "freeSpin_label": "ฟรีสปิน",
   "freeSpin": "ฟรีสปิน",
   "bronze": "บรอนซ์",
@@ -210,6 +210,13 @@
   "watchLive": "ดูถ่ายทอดสด",
   "matchUpcoming": "เริ่มเร็วๆ นี้",
   "matchFinished": "จบการแข่งขันแล้ว",
+  "maintenance": {
+    "titleAccent": "LiveStream",
+    "titleRest": "อยู่ระหว่างปรับปรุง!",
+    "line1": "กรุณากลับมาตรวจสอบอีกครั้ง",
+    "line2": "ขอบคุณสำหรับความอดทน",
+    "okay": "ตกลง"
+  },
   "noPredictionsYet": "ยังไม่มีประวัติการทาย",
   "loadHistoryError": "ไม่สามารถโหลดประวัติได้ กรุณาลองใหม่",
   "calendar": {
@@ -260,6 +267,7 @@
     "existingMember": "สมาชิกปัจจุบัน",
     "sportbookChallenge": "สายกีฬา ทำภารกิจรับรางวัล",
     "sportbookUpTo": "รับสูงสุด {{currency}} 2,888",
+    "sportbookUpToTh": "รับสูงสุด {{currency}} 2,888",
     "eventDate": "วันที่กิจกรรม: 12/6/2026 - 20/7/2026"
   },
   "noData": "ไม่มีข้อมูล",
